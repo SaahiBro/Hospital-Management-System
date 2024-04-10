@@ -28,9 +28,10 @@ Here're some of the project's best features:
 <br>
 <h2>🛠️ Installation Steps:</h2>
 
-<p>1. Clone this repository.</p>
-
-<p>2. Run the main script (python file)</p>
+<p>1. Clone this repository on your PC.</p>
+<p>1.Copy the path of each excel file.</p>
+<p>2. Run the main script (python file) using Pycharm Software and on the top 4 lines, there are four variables declared, which stores the path of excel file. replace the path of each excel file with the one which you copied in 2nd step. </p>
+<p>3. Now you are done...Just run the python file.</p>
 
 <h3>Note:</h3>
 <p>This is a foundational project that can be further customized to fit your specific hospital or clinic needs. The "Features to be Added" section provides suggestions for future development.</p>
